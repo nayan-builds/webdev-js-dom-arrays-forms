@@ -39,6 +39,9 @@ nav ul li {
 nav li:first-child {
   border-left: none;
 }
+#myImages:hover{
+  cursor: pointer;
+}
 #myTestEvent:hover {
   cursor: pointer;
 }
